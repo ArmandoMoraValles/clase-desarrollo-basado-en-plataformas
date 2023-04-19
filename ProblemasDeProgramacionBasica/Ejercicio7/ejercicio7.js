@@ -4,7 +4,7 @@ function main() {
   let contador = 0
   let frase = ""
   do{
-    frase = prompt("Ingrese una frase")
+    frase = prompt('Ingrese una frase')
     contador++
   }while(frase !== "")
   console.log(`Ingresaste ${contador-1} frases.`)
