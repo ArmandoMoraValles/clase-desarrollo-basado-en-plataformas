@@ -16,8 +16,8 @@ function main() {
     }
   }
 
-  alert(`Existen ${count} múltiplos de 2 entre ${num1} y ${num2}.`)
-  alert(`La suma de los múltiplos de 2 es ${sum}.`)
+  console.log(`Existen ${count} múltiplos de 2 entre ${num1} y ${num2}.`)
+  console.log(`La suma de los múltiplos de 2 es ${sum}.`)
 }
 
 main();
