@@ -1,0 +1,722 @@
+[
+  {
+     "clave":1,
+     "descripcion":"Leche entera 1L",
+     "precio":12.5,
+     "clasificacion":"Lacteos",
+     "existencia":30,
+     "existencia_minima":10,
+     "existencia_maxima":50
+  },
+  {
+     "clave":2,
+     "descripcion":"Cereal de avena",
+     "precio":18.0,
+     "clasificacion":"Cereales",
+     "existencia":20,
+     "existencia_minima":5,
+     "existencia_maxima":30
+  },
+  {
+     "clave":3,
+     "descripcion":"Jabón en polvo",
+     "precio":15.5,
+     "clasificacion":"Limpieza",
+     "existencia":35,
+     "existencia_minima":15,
+     "existencia_maxima":60
+  },
+  {
+     "clave":4,
+     "descripcion":"Papel higiénico 4 rollos",
+     "precio":10.0,
+     "clasificacion":"Higiene personal",
+     "existencia":40,
+     "existencia_minima":20,
+     "existencia_maxima":80
+  },
+  {
+     "clave":5,
+     "descripcion":"Aceite de oliva 1L",
+     "precio":25.0,
+     "clasificacion":"Aceites y grasas",
+     "existencia":15,
+     "existencia_minima":5,
+     "existencia_maxima":30
+  },
+  {
+    "clave":1,
+    "descripcion":"Leche entera 1L",
+    "precio":12.5,
+    "clasificacion":"Lacteos",
+    "existencia":30,
+    "existencia_minima":10,
+    "existencia_maxima":50
+ },
+ {
+    "clave":2,
+    "descripcion":"Cereal de avena",
+    "precio":18.0,
+    "clasificacion":"Cereales",
+    "existencia":20,
+    "existencia_minima":5,
+    "existencia_maxima":30
+ },
+ {
+    "clave":3,
+    "descripcion":"Jabón en polvo",
+    "precio":15.5,
+    "clasificacion":"Limpieza",
+    "existencia":35,
+    "existencia_minima":15,
+    "existencia_maxima":60
+ },
+ {
+    "clave":4,
+    "descripcion":"Papel higiénico 4 rollos",
+    "precio":10.0,
+    "clasificacion":"Higiene personal",
+    "existencia":40,
+    "existencia_minima":20,
+    "existencia_maxima":80
+ },
+ {
+    "clave":5,
+    "descripcion":"Aceite de oliva 1L",
+    "precio":25.0,
+    "clasificacion":"Aceites y grasas",
+    "existencia":15,
+    "existencia_minima":5,
+    "existencia_maxima":30
+ },
+ {
+  "clave": 1,
+  "descripcion": "Galletas de chocolate",
+  "precio": 20.5,
+  "clasificacion": "Dulces",
+  "existencia": 30,
+  "existencia_minima": 10,
+  "existencia_maxima": 50
+},
+{
+  "clave": 2,
+  "descripcion": "Aceite de oliva",
+  "precio": 50.0,
+  "clasificacion": "Aceites y Vinagres",
+  "existencia": 25,
+  "existencia_minima": 5,
+  "existencia_maxima": 50
+},
+{
+  "clave": 3,
+  "descripcion": "Arroz blanco",
+  "precio": 12.5,
+  "clasificacion": "Granos",
+  "existencia": 40,
+  "existencia_minima": 10,
+  "existencia_maxima": 100
+},
+{
+  "clave": 4,
+  "descripcion": "Frijoles negros",
+  "precio": 15.0,
+  "clasificacion": "Granos",
+  "existencia": 20,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 5,
+  "descripcion": "Salsa de tomate",
+  "precio": 18.5,
+  "clasificacion": "Salsas",
+  "existencia": 35,
+  "existencia_minima": 10,
+  "existencia_maxima": 60
+},
+{
+  "clave": 6,
+  "descripcion": "Mermelada de fresa",
+  "precio": 22.0,
+  "clasificacion": "Dulces",
+  "existencia": 15,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 7,
+  "descripcion": "Jugo de naranja",
+  "precio": 28.0,
+  "clasificacion": "Bebidas",
+  "existencia": 20,
+  "existencia_minima": 5,
+  "existencia_maxima": 50
+},
+{
+  "clave": 8,
+  "descripcion": "Pan blanco",
+  "precio": 8.0,
+  "clasificacion": "Panadería",
+  "existencia": 50,
+  "existencia_minima": 20,
+  "existencia_maxima": 100
+},
+{
+  "clave": 9,
+  "descripcion": "Huevo",
+  "precio": 25.0,
+  "clasificacion": "Huevos",
+  "existencia": 60,
+  "existencia_minima": 20,
+  "existencia_maxima": 120
+},
+{
+  "clave": 10,
+  "descripcion": "Queso manchego",
+  "precio": 45.0,
+  "clasificacion": "Lácteos",
+  "existencia": 10,
+  "existencia_minima": 2,
+  "existencia_maxima": 20
+},
+{
+  "clave":11,
+  "descripcion":"Producto 11",
+  "precio":17.8,
+  "clasificacion":"clasificacion3",
+  "existencia":8,
+  "existencia_minima":5,
+  "existencia_maxima":20
+},
+{
+  "clave":12,
+  "descripcion":"Producto 12",
+  "precio":9.5,
+  "clasificacion":"clasificacion1",
+  "existencia":30,
+  "existencia_minima":15,
+  "existencia_maxima":40
+},
+{
+  "clave":13,
+  "descripcion":"Producto 13",
+  "precio":22.0,
+  "clasificacion":"clasificacion2",
+  "existencia":20,
+  "existencia_minima":10,
+  "existencia_maxima":30
+},
+{
+  "clave":14,
+  "descripcion":"Producto 14",
+  "precio":13.5,
+  "clasificacion":"clasificacion4",
+  "existencia":12,
+  "existencia_minima":5,
+  "existencia_maxima":15
+},
+{
+  "clave":15,
+  "descripcion":"Producto 15",
+  "precio":18.0,
+  "clasificacion":"clasificacion3",
+  "existencia":25,
+  "existencia_minima":10,
+  "existencia_maxima":40
+},
+{
+  "clave":16,
+  "descripcion":"Producto 16",
+  "precio":14.0,
+  "clasificacion":"clasificacion1",
+  "existencia":18,
+  "existencia_minima":8,
+  "existencia_maxima":25
+},
+{
+  "clave":17,
+  "descripcion":"Producto 17",
+  "precio":23.5,
+  "clasificacion":"clasificacion2",
+  "existencia":10,
+  "existencia_minima":5,
+  "existencia_maxima":20
+},
+{
+  "clave":18,
+  "descripcion":"Producto 18",
+  "precio":11.2,
+  "clasificacion":"clasificacion4",
+  "existencia":5,
+  "existencia_minima":3,
+  "existencia_maxima":10
+},
+{
+  "clave":19,
+  "descripcion":"Producto 19",
+  "precio":16.8,
+  "clasificacion":"clasificacion3",
+  "existencia":22,
+  "existencia_minima":10,
+  "existencia_maxima":30
+},
+{
+  "clave":20,
+  "descripcion":"Producto 20",
+  "precio":12.0,
+  "clasificacion":"clasificacion1",
+  "existencia":16,
+  "existencia_minima":5,
+  "existencia_maxima":25
+},
+{
+  "clave": 21,
+  "descripcion": "Producto 21",
+  "precio": 19.99,
+  "clasificacion": "clasificacion3",
+  "existencia": 40,
+  "existencia_minima": 20,
+  "existencia_maxima": 60
+},
+{
+  "clave": 22,
+  "descripcion": "Producto 22",
+  "precio": 7.5,
+  "clasificacion": "clasificacion1",
+  "existencia": 10,
+  "existencia_minima": 5,
+  "existencia_maxima": 20
+},
+{
+  "clave": 23,
+  "descripcion": "Producto 23",
+  "precio": 29.99,
+  "clasificacion": "clasificacion2",
+  "existencia": 5,
+  "existencia_minima": 1,
+  "existencia_maxima": 10
+},
+{
+  "clave": 24,
+  "descripcion": "Producto 24",
+  "precio": 15.0,
+  "clasificacion": "clasificacion4",
+  "existencia": 30,
+  "existencia_minima": 10,
+  "existencia_maxima": 50
+},
+{
+  "clave": 25,
+  "descripcion": "Producto 25",
+  "precio": 12.5,
+  "clasificacion": "clasificacion5",
+  "existencia": 15,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 26,
+  "descripcion": "Producto 26",
+  "precio": 8.99,
+  "clasificacion": "clasificacion3",
+  "existencia": 25,
+  "existencia_minima": 10,
+  "existencia_maxima": 40
+},
+{
+  "clave": 27,
+  "descripcion": "Producto 27",
+  "precio": 22.0,
+  "clasificacion": "clasificacion1",
+  "existencia": 10,
+  "existencia_minima": 5,
+  "existencia_maxima": 20
+},
+{
+  "clave": 28,
+  "descripcion": "Producto 28",
+  "precio": 34.99,
+  "clasificacion": "clasificacion2",
+  "existencia": 2,
+  "existencia_minima": 1,
+  "existencia_maxima": 5
+},
+{
+  "clave": 29,
+  "descripcion": "Producto 29",
+  "precio": 13.0,
+  "clasificacion": "clasificacion4",
+  "existencia": 20,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 30,
+  "descripcion": "Producto 30",
+  "precio": 11.5,
+  "clasificacion": "clasificacion5",
+  "existencia": 12,
+  "existencia_minima": 5,
+  "existencia_maxima": 20
+},
+{
+  "clave": 31,
+  "descripcion": "Producto 31",
+  "precio": 16.99,
+  "clasificacion": "clasificacion3",
+  "existencia": 35,
+  "existencia_minima": 15,
+  "existencia_maxima": 60
+},
+{
+  "clave": 21,
+  "descripcion": "Lámpara de mesa",
+  "precio": 12.99,
+  "clasificacion": "iluminación",
+  "existencia": 35,
+  "existencia_minima": 10,
+  "existencia_maxima": 50
+},
+{
+  "clave": 22,
+  "descripcion": "Estuche para lápices",
+  "precio": 7.99,
+  "clasificacion": "papelería",
+  "existencia": 20,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 23,
+  "descripcion": "Botella de agua",
+  "precio": 3.99,
+  "clasificacion": "accesorios",
+  "existencia": 40,
+  "existencia_minima": 15,
+  "existencia_maxima": 50
+},
+{
+  "clave": 24,
+  "descripcion": "Bolsa de deporte",
+  "precio": 19.99,
+  "clasificacion": "accesorios",
+  "existencia": 10,
+  "existencia_minima": 5,
+  "existencia_maxima": 20
+},
+{
+  "clave": 25,
+  "descripcion": "Lentes de sol",
+  "precio": 29.99,
+  "clasificacion": "accesorios",
+  "existencia": 15,
+  "existencia_minima": 5,
+  "existencia_maxima": 30
+},
+{
+  "clave": 26,
+  "descripcion": "Gorra deportiva",
+  "precio": 12.50,
+  "clasificacion": "accesorios",
+  "existencia": 25,
+  "existencia_minima": 10,
+  "existencia_maxima": 30
+},
+{
+  "clave": 27,
+  "descripcion": "Mochila escolar",
+  "precio": 24.99,
+  "clasificacion": "accesorios",
+  "existencia": 20,
+  "existencia_minima": 10,
+  "existencia_maxima": 30
+},
+{
+  "clave": 28,
+  "descripcion": "Camiseta para hombre",
+  "precio": 14.99,
+  "clasificacion": "ropa",
+  "existencia": 30,
+  "existencia_minima": 10,
+  "existencia_maxima": 50
+},
+{
+  "clave": 29,
+  "descripcion": "Vestido para mujer",
+  "precio": 39.99,
+  "clasificacion": "ropa",
+  "existencia": 10,
+  "existencia_minima": 5,
+  "existencia_maxima": 15
+},
+{
+  "clave": 30,
+  "descripcion": "Suéter unisex",
+  "precio": 29.99,
+  "clasificacion": "ropa",
+  "existencia": 25,
+  "existencia_minima": 10,
+  "existencia_maxima": 30
+},
+{
+  "clave":110,
+  "descripcion":"Producto 110",
+  "precio":35.75,
+  "clasificacion":"clasificacion5",
+  "existencia":5,
+  "existencia_minima":0,
+  "existencia_maxima":20
+},
+{
+  "clave":111,
+  "descripcion":"Producto 111",
+  "precio":12.99,
+  "clasificacion":"clasificacion1",
+  "existencia":12,
+  "existencia_minima":8,
+  "existencia_maxima":25
+},
+{
+  "clave":112,
+  "descripcion":"Producto 112",
+  "precio":18.5,
+  "clasificacion":"clasificacion3",
+  "existencia":18,
+  "existencia_minima":10,
+  "existencia_maxima":30
+},
+{
+  "clave":113,
+  "descripcion":"Producto 113",
+  "precio":28.0,
+  "clasificacion":"clasificacion4",
+  "existencia":30,
+  "existencia_minima":15,
+  "existencia_maxima":50
+},
+{
+  "clave":114,
+  "descripcion":"Producto 114",
+  "precio":10.0,
+  "clasificacion":"clasificacion1",
+  "existencia":8,
+  "existencia_minima":3,
+  "existencia_maxima":15
+},
+{
+  "clave":115,
+  "descripcion":"Producto 115",
+  "precio":15.25,
+  "clasificacion":"clasificacion3",
+  "existencia":22,
+  "existencia_minima":10,
+  "existencia_maxima":40
+},
+{
+  "clave":116,
+  "descripcion":"Producto 116",
+  "precio":21.99,
+  "clasificacion":"clasificacion2",
+  "existencia":16,
+  "existencia_minima":8,
+  "existencia_maxima":25
+},
+{
+  "clave":117,
+  "descripcion":"Producto 117",
+  "precio":43.5,
+  "clasificacion":"clasificacion5",
+  "existencia":3,
+  "existencia_minima":1,
+  "existencia_maxima":10
+},
+{
+  "clave":118,
+  "descripcion":"Producto 118",
+  "precio":8.99,
+  "clasificacion":"clasificacion1",
+  "existencia":27,
+  "existencia_minima":20,
+  "existencia_maxima":40
+},
+{
+  "clave":21,
+  "descripcion":"Producto 21",
+  "precio":15.99,
+  "clasificacion":"clasificacion4",
+  "existencia":40,
+  "existencia_minima":20,
+  "existencia_maxima":60
+},
+{
+  "clave":22,
+  "descripcion":"Producto 22",
+  "precio":12.5,
+  "clasificacion":"clasificacion3",
+  "existencia":18,
+  "existencia_minima":10,
+  "existencia_maxima":30
+},
+{
+  "clave":23,
+  "descripcion":"Producto 23",
+  "precio":8.75,
+  "clasificacion":"clasificacion2",
+  "existencia":35,
+  "existencia_minima":15,
+  "existencia_maxima":50
+},
+{
+  "clave":24,
+  "descripcion":"Producto 24",
+  "precio":23.4,
+  "clasificacion":"clasificacion4",
+  "existencia":50,
+  "existencia_minima":25,
+  "existencia_maxima":75
+},
+{
+  "clave":25,
+  "descripcion":"Producto 25",
+  "precio":16.8,
+  "clasificacion":"clasificacion3",
+  "existencia":22,
+  "existencia_minima":10,
+  "existencia_maxima":30
+},
+{
+  "clave":26,
+  "descripcion":"Producto 26",
+  "precio":11.99,
+  "clasificacion":"clasificacion1",
+  "existencia":12,
+  "existencia_minima":5,
+  "existencia_maxima":20
+},
+{
+  "clave":27,
+  "descripcion":"Producto 27",
+  "precio":17.5,
+  "clasificacion":"clasificacion2",
+  "existencia":45,
+  "existencia_minima":20,
+  "existencia_maxima":60
+},
+{
+  "clave":28,
+  "descripcion":"Producto 28",
+  "precio":30.25,
+  "clasificacion":"clasificacion4",
+  "existencia":15,
+  "existencia_minima":5,
+  "existencia_maxima":25
+},
+{
+  "clave":29,
+  "descripcion":"Producto 29",
+  "precio":9.99,
+  "clasificacion":"clasificacion1",
+  "existencia":30,
+  "existencia_minima":10,
+  "existencia_maxima":50
+},
+{
+  "clave":30,
+  "descripcion":"Producto 30",
+  "precio":22.0,
+  "clasificacion":"clasificacion3",
+  "existencia":20,
+  "existencia_minima":5,
+  "existencia_maxima":30
+},
+{
+      "clave":77,
+      "descripcion":"Teléfono celular Samsung Galaxy S20",
+      "precio":15000.0,
+      "clasificacion":"Electrónica",
+      "existencia":10,
+      "existencia_minima":2,
+      "existencia_maxima":20
+   },
+   {
+      "clave":78,
+      "descripcion":"Laptop HP con procesador Intel Core i5",
+      "precio":12000.0,
+      "clasificacion":"Computadoras y accesorios",
+      "existencia":7,
+      "existencia_minima":1,
+      "existencia_maxima":10
+   },
+   {
+      "clave":79,
+      "descripcion":"Lámpara de escritorio LED",
+      "precio":300.0,
+      "clasificacion":"Hogar",
+      "existencia":30,
+      "existencia_minima":5,
+      "existencia_maxima":50
+   },
+   {
+      "clave":80,
+      "descripcion":"Bocina Bluetooth recargable",
+      "precio":800.0,
+      "clasificacion":"Electrónica",
+      "existencia":12,
+      "existencia_minima":2,
+      "existencia_maxima":20
+   },
+      {
+      "clave":71,
+      "descripcion":"Gel antibacterial 500ml",
+      "precio":25.5,
+      "clasificacion":"Salud e Higiene",
+      "existencia":120,
+      "existencia_minima":20,
+      "existencia_maxima":200
+   },
+   {
+      "clave":72,
+      "descripcion":"Mochila escolar",
+      "precio":150.0,
+      "clasificacion":"Bolsos y accesorios",
+      "existencia":30,
+      "existencia_minima":10,
+      "existencia_maxima":50
+   },
+   {
+      "clave":73,
+      "descripcion":"Tennis deportivos para hombre",
+      "precio":700.0,
+      "clasificacion":"Ropa deportiva",
+      "existencia":15,
+      "existencia_minima":5,
+      "existencia_maxima":30
+   },
+   {
+      "clave":74,
+      "descripcion":"Gorra de béisbol",
+      "precio":80.0,
+      "clasificacion":"Bolsos y accesorios",
+      "existencia":40,
+      "existencia_minima":10,
+      "existencia_maxima":60
+   },
+   {
+      "clave":75,
+      "descripcion":"Mueble para TV",
+      "precio":450.0,
+      "clasificacion":"Hogar",
+      "existencia":5,
+      "existencia_minima":1,
+      "existencia_maxima":10
+   },
+   {
+      "clave":76,
+      "descripcion":"Mochila de viaje",
+      "precio":200.0,
+      "clasificacion":"Bolsos y accesorios",
+      "existencia":20,
+      "existencia_minima":5,
+      "existencia_maxima":30
+   }
+]
